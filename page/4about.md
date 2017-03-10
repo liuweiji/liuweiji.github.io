@@ -33,6 +33,6 @@ type: page
 ## 友情链接
 
 
-## Comments
+## 评论
 
 {% include comments.html %}
